@@ -1,0 +1,54 @@
+INFO    2022-05-24 15:33:38,900 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Simba esta corriendo
+INFO    2022-05-24 15:33:38,900 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Bom esta corriendo
+ERROR   2022-05-24 15:33:38,900 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 15:33:38,901 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Bom es incorrecta
+java.lang.Exception
+	at com.digitalhouse.demo.model.Leon.esMayorA10(com.digitalhouse.demo.model.Leon.java:41)
+	at com.digitalhouse.demo.Aplicacion.main(com.digitalhouse.demo.Aplicacion.java:30)
+INFO    2022-05-24 15:33:38,902 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 15:33:38,903 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 15:36:35,586 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Simba esta corriendo
+INFO    2022-05-24 15:36:35,587 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Bom esta corriendo
+ERROR   2022-05-24 15:36:35,587 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 15:36:35,588 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Bom es incorrecta
+java.lang.Exception
+	at com.digitalhouse.demo.model.Leon.esMayorA10(Leon.java:43)
+	at com.digitalhouse.demo.Aplicacion.main(Aplicacion.java:34)
+INFO    2022-05-24 15:36:35,589 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 15:36:35,589 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 15:39:25,534 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Simba esta corriendo
+INFO    2022-05-24 15:39:25,534 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Bom esta corriendo
+ERROR   2022-05-24 15:39:25,534 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 15:39:25,535 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Bom es incorrecta
+java.lang.Exception
+	at com.digitalhouse.demo.model.Leon.esMayorA10(Leon.java:43)
+	at com.digitalhouse.demo.Aplicacion.main(Aplicacion.java:35)
+INFO    2022-05-24 15:39:25,536 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 15:39:25,537 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 22:51:48,887 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Simba esta corriendo
+INFO    2022-05-24 22:51:48,889 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Bom esta corriendo
+ERROR   2022-05-24 22:51:48,890 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 22:51:48,892 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Bom es incorrecta
+java.lang.Exception
+	at com.digitalhouse.demo.model.Leon.esMayorA10(Leon.java:43)
+	at com.digitalhouse.demo.Aplicacion.main(Aplicacion.java:35)
+INFO    2022-05-24 22:51:48,904 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 22:51:48,905 [main] com.digitalhouse.demo.model.Tigre  - El com.digitalhouse.demo.model.Tigre esta corriendo
+INFO    2022-05-24 22:53:51,070 [main] com.digitalhouse.demo.Aplicacion  - Test de logger
+INFO    2022-05-24 23:07:26,433 [main] com.digitalhouse.demo.Aplicacion  - Test de logger
+INFO    2022-05-24 23:07:26,459 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:10:20,565 [main] com.digitalhouse.demo.Aplicacion  - Test de logger
+INFO    2022-05-24 23:10:20,583 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:10:20,583 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:10:20,583 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+ERROR   2022-05-24 23:10:20,584 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 23:10:20,585 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Leon de pruebaes incorrecto
+INFO    2022-05-24 23:13:08,325 [main] com.digitalhouse.demo.Aplicacion  - Test de logger
+INFO    2022-05-24 23:13:08,343 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:13:08,343 [main] com.digitalhouse.demo.model.Leon  -  Iniciando proceso
+INFO    2022-05-24 23:13:08,344 [main] com.digitalhouse.demo.model.Leon  -  Culminando proceso
+INFO    2022-05-24 23:13:08,344 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:13:08,344 [main] com.digitalhouse.demo.model.Leon  - El com.digitalhouse.demo.model.Leon Leon de prueba esta corriendo
+INFO    2022-05-24 23:13:08,344 [main] com.digitalhouse.demo.model.Leon  -  Iniciando proceso
+ERROR   2022-05-24 23:13:08,344 [main] com.digitalhouse.demo.model.Leon  - La edad no puede ser negativa
+ERROR   2022-05-24 23:13:08,345 [main] com.digitalhouse.demo.Aplicacion  - La edad del leon Leon de pruebaes incorrecto
