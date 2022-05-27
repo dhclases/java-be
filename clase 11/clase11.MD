@@ -1,12 +1,12 @@
 # Clases 11
 
-## Instalacion de H2
+## Instalación de H2
 
     Enlace de jar y demas detalles de H2 
 
     - H2 Database Engine https://www.h2database.com/html/main.html
 
-## Conexiona Bases de Datos con JDBC
+## Conexión Bases de Datos con JDBC
 
 - Crear Tabla
 
