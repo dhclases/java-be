@@ -1,0 +1,14 @@
+ {
+        "id": 99,
+        "nombre": "Alfredo",
+        "apellido": "Paz",
+        "dni": "88000000",
+        "fechaIngreso": "2022-05-13",
+        "domicilio": {
+            "id": 99,
+            "calle": "Av Santa fe",
+            "numero": "1020",
+            "localidad": "CABA",
+            "provincia": "Buenos Aires"
+        }
+}
