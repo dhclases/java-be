@@ -1,0 +1,11 @@
+# Created at 2022-07-05T19:30:19.366
+java.lang.NoSuchMethodError: 'void org.apache.maven.surefire.report.RunListener.testSetStarting(org.apache.maven.surefire.report.ReportEntry)'
+	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeSingleClass(JUnitPlatformProvider.java:137)
+	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:126)
+	at org.junit.platform.surefire.provider.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:105)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+

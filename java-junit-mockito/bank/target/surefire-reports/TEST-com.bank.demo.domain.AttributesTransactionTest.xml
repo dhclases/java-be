@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bank.demo.domain.AttributesTransactionTest" time="0.172" tests="12" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/test-classes:/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/classes:/home/rcastillo/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/home/rcastillo/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:/home/rcastillo/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/home/rcastillo/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/rcastillo/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/rcastillo/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/rcastillo/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/rcastillo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/rcastillo/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/rcastillo/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar:/home/rcastillo/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar:/home/rcastillo/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/home/rcastillo/.m2/repository/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-java/1.1.1/plexus-java-1.1.1.jar:/home/rcastillo/.m2/repository/org/ow2/asm/asm/9.2/asm-9.2.jar:/home/rcastillo/.m2/repository/com/thoughtworks/qdox/qdox/2.0.1/qdox-2.0.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="Unknown"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/surefire/surefirebooter6339161544032156859.jar /home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/surefire 2022-07-05T21-09-42_848-jvmRun1 surefire4281034212833035338tmp surefire_11104075295767829204tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/test-classes:/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/classes:/home/rcastillo/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/home/rcastillo/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:/home/rcastillo/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/home/rcastillo/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/rcastillo/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/rcastillo/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/rcastillo/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/rcastillo/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/rcastillo/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/rcastillo/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin/3.10.1/maven-compiler-plugin-3.10.1.jar:/home/rcastillo/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar:/home/rcastillo/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar:/home/rcastillo/.m2/repository/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-java/1.1.1/plexus-java-1.1.1.jar:/home/rcastillo/.m2/repository/org/ow2/asm/asm/9.2/asm-9.2.jar:/home/rcastillo/.m2/repository/com/thoughtworks/qdox/qdox/2.0.1/qdox-2.0.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-api/2.11.1/plexus-compiler-api-2.11.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-utils/3.4.1/plexus-utils-3.4.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-manager/2.11.1/plexus-compiler-manager-2.11.1.jar:/home/rcastillo/.m2/repository/org/codehaus/plexus/plexus-compiler-javac/2.11.1/plexus-compiler-javac-2.11.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/rcastillo"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank/target/surefire/surefirebooter6339161544032156859.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3+7-Ubuntu-0ubuntu0.22.04.1"/>
+    <property name="user.name" value="rcastillo"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-40-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/rcastillo/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="Unknown"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="17.0.3"/>
+    <property name="user.dir" value="/home/rcastillo/ws/ws-java/java-junit-mockito/bank"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="17.0.3+7-Ubuntu-0ubuntu0.22.04.1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="setMount" classname="com.bank.demo.domain.AttributesTransactionTest" time="0.069"/>
+  <testcase name="setMerchant" classname="com.bank.demo.domain.AttributesTransactionTest" time="0.004"/>
+  <testcase name="getMerchant" classname="com.bank.demo.domain.AttributesTransactionTest" time="0.004"/>
+  <testcase name="getMount" classname="com.bank.demo.domain.AttributesTransactionTest" time="0.002"/>
+  <testcase name="createNewTransactionWithMountAndMerchant" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest" time="0.003"/>
+  <testcase name="createNewTransactionWithMountAndMerchant" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest$BuilderTransactionTest" time="0.003"/>
+  <testcase name="createNewTransactionWithoutAttributes" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest" time="0.002"/>
+  <testcase name="createNewTransactionWithoutAttributes" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest$BuilderTransactionTest" time="0.002"/>
+  <testcase name="createNewTransactionWithMerchant" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest" time="0.002"/>
+  <testcase name="createNewTransactionWithMerchant" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest$BuilderTransactionTest" time="0.001"/>
+  <testcase name="createNewTransactionWithMount" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest" time="0.003"/>
+  <testcase name="createNewTransactionWithMount" classname="com.bank.demo.domain.AttributesTransactionTest$ConstructorTransactionTest$BuilderTransactionTest" time="0.005"/>
+</testsuite>

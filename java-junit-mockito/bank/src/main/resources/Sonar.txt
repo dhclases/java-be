@@ -1,0 +1,6 @@
+ user admin bestcode
+
+mvn clean verify sonar:sonar \
+  -Dsonar.projectKey=nubank \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=sqp_313a1918a070cfb34da9691919e778a3af714601

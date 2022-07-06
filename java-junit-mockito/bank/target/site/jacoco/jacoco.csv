@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+nubankdemo,com.bank.demo.domain,Account,24,42,0,0,6,16,3,8,3,8
+nubankdemo,com.bank.demo.domain,Transaction.Builder,0,28,0,0,0,11,0,5,0,5
+nubankdemo,com.bank.demo.domain,Transaction,0,49,0,0,0,20,0,9,0,9
+nubankdemo,com.bank.demo,Main,11,0,0,0,4,0,3,0,3,0

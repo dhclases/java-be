@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bank.demo.domain.AttributesTransactionTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.172 s - in com.bank.demo.domain.AttributesTransactionTest

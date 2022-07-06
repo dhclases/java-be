@@ -1,0 +1,5 @@
+com/bank/demo/domain/AttributesTransactionTest.class
+com/bank/demo/domain/AttributesAccountTest.class
+com/bank/demo/domain/AttributesAccountTest$HistoryTransactionTest.class
+com/bank/demo/domain/AttributesTransactionTest$ConstructorTransactionTest.class
+com/bank/demo/domain/AttributesTransactionTest$ConstructorTransactionTest$BuilderTransactionTest.class
